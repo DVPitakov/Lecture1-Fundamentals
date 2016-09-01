@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fundamentals</string>
+    <string name="label_main_activity">Main Activity</string>
+    <string name="btn_second_activity">Start Second Activity</string>
+    <string name="btn_start_service">Start Service</string>
+    <string name="btn_stop_service">Stop Service</string>
+    <string name="label_second_activity">Second Activity :)</string>
+    <string name="btn_bind_service">Bind Service</string>
+    <string name="btn_unbind_service">Unbind Service</string>
+    <string name="random_number">Generate random number</string>
+</resources>
